@@ -3,7 +3,7 @@ using namespace std;
 struct EXAM{
     int cat, exam;
     void get(){
-        cout<<"Enter CAT and Exam Maeks here:"<<endl;
+        cout<<"Enter CAT and Exam Marks below"<<endl;
         cout<<"Your CAT Marks are: ";
         cin>>cat;
         cout<<"Your Exam Marks are: ";
